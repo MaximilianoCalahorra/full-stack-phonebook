@@ -1,4 +1,8 @@
-## Enlaces a la aplicación en línea
+## Enlace a la aplicación en línea
+
+La página puede ser accedida mediante la URL *https://full-stack-phonebook-q19r.onrender.com*, donde podrá interactuar con la agenda telefónica. Verá todos los contactos actuales, podrá filtrarlos por nombre del contacto, agregar un nuevo contacto, eliminar uno ya existente o reemplazar el número de uno indicando el nombre y el nuevo número.
+
+## Enlaces a las distintas partes de la aplicación:
 
 A continuación se listan los siguientes enlaces que se pueden consultar:
 - **Página de información**: *https://full-stack-phonebook-q19r.onrender.com/info*
